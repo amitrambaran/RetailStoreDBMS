@@ -127,16 +127,6 @@ where c.orderid = o.orderid
 order by customerid;
 
 
-
-
-
-
-
-
-
-
-
-
 select customername, customerid from customer
 where orderid > 2;
 
